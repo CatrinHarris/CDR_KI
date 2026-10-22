@@ -36,5 +36,5 @@ Data should be entered following the protocol, including the completion of all m
 ### **Contact** 
 Do you have questions about how to fill in the KI or additional variables that are not included in the currently definitions. Please contact Catrin Harris (UU) c.a.harris1@uu.nl and Vassilis Daioglou (PBL) vassilis.daioglou@pbl.nl
 
-
-
+### **Funding Acknowledgement**
+UPTAKE - Bridging current knowledge gaps to enable the UPTAKE of carbon dioxide removal methods - is a Horizon Europe research project (grant agreement 101081521, 2023–2027) that advances the modelling of carbon dioxide removal. 
